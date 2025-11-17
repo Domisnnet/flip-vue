@@ -146,7 +146,7 @@ git checkout -b minha-feature
 
 ## 9. 📜 Licença
 
-Este projeto está licenciado sob a **MIT License** — consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a **MIT License** — consulte o arquivo `MIT license` para mais detalhes.
 
 ---
 
