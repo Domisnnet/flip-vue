@@ -10,7 +10,6 @@
 </script>
 
 <style scoped>
-/* ESTE CSS SÓ AFETA O TEMPLATE ACIMA (h1, header) */
 header {
   padding-top: 40px;
   padding-bottom: -50px;
