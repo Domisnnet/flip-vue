@@ -1,4 +1,4 @@
-![Shadow-Flip-Oh!](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue/blob/main/public/images/shadow-flip-oh.png)
+![Shadow-Flip-Oh!](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/blob/main/public/images/shadow-flip-oh.png)
 
 ---
 
@@ -94,7 +94,7 @@ O jogo ficará disponível em [http://localhost:5173](http://localhost:5173)
 
 O projeto está disponível para jogar online nos seguintes links:
 
-<p align="left"><a href="https://shadow-flip-oh-86570817-f8cc4.web.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue/main/public/images/firebase_badge.svg" alt="Deploy to Firebase Hosting" width="100" style="border: none; vertical-align: top;"></a>&nbsp;&nbsp;<a href="https://domisnnet.github.io/Shadow-Flip-Oh-Vue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue/main/public/images/github_badge.svg" alt="Deploy to GitHub Pages" width="125" style="border: none; vertical-align: top;"></a></p>
+<p align="left"><a href="https://shadow-flip-oh-86570817-f8cc4.web.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/main/public/images/firebase_badge.svg" alt="Deploy to Firebase Hosting" width="100" style="border: none; vertical-align: top;"></a>&nbsp;&nbsp;<a href="https://domisnnet.github.io/Shadow-Flip-Oh-Vue/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/main/public/images/github_badge.svg" alt="Deploy to GitHub Pages" width="125" style="border: none; vertical-align: top;"></a></p>
 
 ---
 
@@ -162,5 +162,5 @@ Explore, contribua e divirta-se criando sua própria versão do duelo de memóri
 ## Para conhecer meu Repositório:
 
 <a href="https://github.com/Domisnnet">
-    <img src="https://github.com/Domisnnet/Shadow-Flip-Oh-Vue/blob/main/public/images/DomisDev.png" width="150px" height="150px" alt="Acessar perfil GitHub">
+    <img src="https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/blob/main/public/images/DomisDev.png" width="150px" height="150px" alt="Acessar perfil GitHub">
 </a>
