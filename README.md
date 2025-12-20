@@ -136,9 +136,23 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 ---
 
-## 9. 📜 Licença
+<h2 id="codigo-fonte">9. 💻 Código Fonte</h2>
 
-Este projeto está licenciado sob a **MIT License** — consulte o arquivo \`MIT license\` para mais detalhes.
+Gostou do jogo? Explore o código ou faça sugestões:
+
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDrakonik--Nexus-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.js)
+
+---
+
+<h2 id="creditos">10. 📝 Créditos</h2>
+
+* **Desenvolvedor 👨‍💻: DomisDev**.
+
+---
+
+<h2 id="licenca">11. 📄 Licença</h2>
+
+Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/GitHub-Stats)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/edit/main/LICENSE)
 
 ---
 
