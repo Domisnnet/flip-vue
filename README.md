@@ -12,14 +12,7 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 
 ---
 
-## 📚 Tabela de Conteúdo
 
-| 🎮 O Jogo | 🛠️ Técnico | 🤝 Comunidade |
-| :---: | :---: | :---: |
-| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#1-sobre-o-projeto) | [![5. Instalação](https://img.shields.io/badge/5%20-%20Instalação-607D8B)](#5-instalação-e-execução-local) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#8-perguntas-frequentes) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#2-tecnologias-utilizadas) | [![6. Deploy](https://img.shields.io/badge/6%20-%20Deploy-009688)](#6-implantação) | [![9. Licença](https://img.shields.io/badge/9%20-%20Licença-E91E63)](#9-licença) |
-| [![3. Jogar](https://img.shields.io/badge/3%20-%20Jogar-FF9800)](#3-como-jogar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#7-contribuindo-para-o-projeto) | [![10. Conclusão](https://img.shields.io/badge/10%20-%20Fim-212121)](#10-conclusão) |
-| [![4. Regras](https://img.shields.io/badge/4%20-%20Regras-9C27B0)](#4-regras-do-jogo) | | |
 
 ---
 
@@ -104,7 +97,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 ---
 
-<h2 id="8-perguntas-frequentes">8. 🧠 Perguntas Frequentes</h2>
+<h2 id="perguntas-frequentes">8. 🧠 Perguntas Frequentes</h2>
 
 <details>
 <summary><strong>O que é o Shadow-Flip-Oh-Vue ❓</strong></summary>
@@ -163,8 +156,6 @@ O **Shadow-Flip-Oh-Vue** combina nostalgia, interatividade e aprendizado.
 Explore, contribua e divirta-se criando sua própria versão do duelo de memória digital!
 
 > ✨ *“Cada carta virada é uma jogada do destino.”* — Shadow-Flip-Oh!
-
----
 
 Para conhecer meu Repositório:
 
