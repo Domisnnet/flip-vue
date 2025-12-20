@@ -2,7 +2,7 @@
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-blue)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Shadow-Flip-Oh/edit/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/edit/main/LICENSE)
 
 ![Shadow-Flip-Oh!](public/images/shadow-flip-oh.png)
 
@@ -23,82 +23,45 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 
 ---
 
-## 📚 **Tabela de Conteúdo**
-- [1. 🎮 Sobre o Projeto](#1--sobre-o-projeto)
-- [2. ⚙️ Tecnologias Utilizadas](#2-️-tecnologias-utilizadas)
-- [3. 🚀 Como Jogar](#3--como-jogar)
-- [4. 🧩 Regras do Jogo](#4--regras-do-jogo)
-- [5. 🛠️ Instalação e Execução Local ](#5-️-instalação-e-execução-local)
-- [6. 🌐 Implantação](#6--implantação)
-- [7. 🤝 Contribuindo para o Projeto](#7--contribuindo-para-o-projeto)
-- [8. 🧠 Perguntas Frequentes](#8--perguntas-frequentes)
-- [9. 📜 Licença](#9-licença)
-- [10. 📝 Conclusão](#10-conclusão)
+<h2 id="2-tecnologias-utilizadas">2. ⚙️ Tecnologias Utilizadas</h2>
+
+| Camada | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646cff?style=flat-square&logo=vite&logoColor=white) | Framework reativo e build otimizado. |
+| **Estado/Rotas** | ![Pinia](https://img.shields.io/badge/Pinia-fada7a?style=flat-square&logo=vue.js&logoColor=black) ![Router](https://img.shields.io/badge/Vue_Router-35495e?style=flat-square&logo=vue.js&logoColor=white) | Gerenciamento de estado e navegação. |
 
 ---
 
-## 1. 🎮 **Sobre o Projeto**
+<h2 id="3-como-jogar">3. 🚀 Como Jogar</h2>
 
-**Shadow-Flip-Oh-Vue** é um jogo da memória com temática inspirada no universo de Yu-Gi-Oh!  
-O objetivo é simples: encontrar todos os pares de cartas no menor tempo possível.  
-Além de entreter, este projeto demonstra como **Vue.js** pode ser usado para criar interfaces dinâmicas e envolventes.
-
-> 💡 Uma combinação entre **frontend moderno** e **nostalgia dos duelos de cartas**.
-
----
-
-## 2. ⚙️ **Tecnologias Utilizadas**
-<div align="start">
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white" alt="Vue Badge" width="100">
-  <img src="https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white" alt="Vite Badge" width="80">
-  <img src="https://img.shields.io/badge/Pinia-fada7a?style=flat&logo=vue.js&logoColor=black" alt="Pinia Badge" width="85">
-  <img src="https://img.shields.io/badge/Vue_Router-35495e?style=flat&logo=vue.js&logoColor=white" alt="Vue Router Badge" width="145">
-</div>
-
-**Stack Principal:**
-- ⚡ **Vue.js** — Framework progressivo para construção de interfaces interativas.  
-- ⚙️ **Vite** — Ferramenta de build rápida e otimizada para desenvolvimento moderno.  
-- 🌿 **Pinia** — Gerenciamento de estado simples e reativo.  
-- 🧭 **Vue Router** — Controle de rotas e navegação fluida.
+| Passo | Ação |
+| :---: | :--- |
+| **1** | Acesse um dos links na seção de implantação. |
+| **2** | Clique em uma carta para revelá-la. |
+| **3** | Encontre o par correspondente para marcar pontos. |
+| **4** | Complete o tabuleiro para vencer o duelo! |
 
 ---
 
-## 3. 🚀 **Como Jogar**
+<h2 id="4-regras-do-jogo">4. 🧩 Regras do Jogo</h2>
 
-1. Acesse um dos links de implantação acima.
-2. Clique em uma carta para revelá-la.  
-3. Encontre o par correspondente.  
-4. Complete o tabuleiro e vença o duelo!
-
-🎯 **Objetivo:** Memorizar a posição das cartas e combinar todas no menor tempo possível.
+* 🔹 **Virar:** Clique em uma carta para virá-la.
+* 🔹 **Match:** Se as cartas coincidirem, permanecem viradas.
+* 🔹 **Erro:** Caso contrário, voltam à posição inicial após 1 segundo.
+* 🏆 **Vitória:** O jogo termina quando todos os pares forem encontrados.
 
 ---
 
-## 4. 🧩 **Regras do Jogo**
+<h2 id="5-instalação-e-execução-local">5. 🛠️ Instalação e Execução Local</h2>
 
-1. 🔹 Clique em uma carta para virá-la.  
-2. 🔹 Escolha outra carta e tente encontrar a correspondência.  
-3. 🔹 Se as cartas coincidirem, elas permanecem viradas.  
-4. 🔹 Caso contrário, voltam à posição inicial.  
-5. 🏆 O jogo termina quando todos os pares forem encontrados.
-
----
-
-## 5. 🛠️ **Instalação e Execução Local**
-
-\`\`\`bash
+```bash
 # Clone o repositório
-git clone https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.git
+git clone [https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.git](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js.git)
 
-# Acesse o diretório
-cd Shadow-Flip-Oh-Vue/shadow-flip-oh
-
-# Instale as dependências
+# Instale e rode
+cd Shadow-Flip-Oh-Vue.Js
 npm install
-
-# Execute o servidor local
 npm run dev
-\`\`\`
 
 ## 💻 Execução Local
 
