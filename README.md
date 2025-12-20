@@ -140,7 +140,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Gostou do jogo? Explore o código ou faça sugestões:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FDrakonik--Nexus-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.js)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FShadow--Flip--Oh-blue?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.js)
 
 ---
 
