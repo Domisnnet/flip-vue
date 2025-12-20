@@ -156,7 +156,7 @@ Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://
 
 ---
 
-## 10. 📝 Conclusão
+<h2 id="conclusao"12. 📝 Conclusão e Perfil
 
 O **Shadow-Flip-Oh-Vue** combina nostalgia, interatividade e aprendizado.  
 Explore, contribua e divirta-se criando sua própria versão do duelo de memória digital!
@@ -165,8 +165,6 @@ Explore, contribua e divirta-se criando sua própria versão do duelo de memóri
 
 ---
 
-## Para conhecer meu Repositório:
+Para conhecer meu Repositório:
 
-<a href="https://github.com/Domisnnet">
-    <img src="https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/blob/main/public/images/DomisDev.png" width="150px" height="150px" alt="Acessar perfil GitHub">
-</a>
+<a href="https://github.com/Domisnnet"> <img src="public/images/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
