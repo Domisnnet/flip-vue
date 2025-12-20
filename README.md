@@ -1,8 +1,23 @@
-![Shadow-Flip-Oh!](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/blob/main/public/images/shadow-flip-oh.png)
+<h2 id="sobre-o-projeto">1. 🎮 Sobre o Projeto</h2>
+
+![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-blue)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Shadow-Flip-Oh/edit/main/LICENSE)
+
+![Shadow-Flip-Oh!](public/images/shadow-flip-oh.png)
+
+Um jogo de cartas da memória inspirado em **Yu-Gi-Oh!**, desenvolvido com **Vue.js** e **Vite** — diversão e código em um só duelo!
 
 ---
 
-> Um jogo de cartas da memória inspirado em **Yu-Gi-Oh!**, desenvolvido com **Vue.js** e **Vite** — diversão e código em um só duelo!
+## 📚 Tabela de Conteúdo
+
+| 🎮 O Jogo | 🛠️ Técnico | 🤝 Comunidade |
+| :---: | :---: | :---: |
+| [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#1-sobre-o-projeto) | [![5. Instalação](https://img.shields.io/badge/5%20-%20Instalação-607D8B)](#5-instalação-e-execução-local) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#8-perguntas-frequentes) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#2-tecnologias-utilizadas) | [![6. Deploy](https://img.shields.io/badge/6%20-%20Deploy-009688)](#6-implantação) | [![9. Licença](https://img.shields.io/badge/9%20-%20Licença-E91E63)](#9-licença) |
+| [![3. Jogar](https://img.shields.io/badge/3%20-%20Jogar-FF9800)](#3-como-jogar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#7-contribuindo-para-o-projeto) | [![10. Conclusão](https://img.shields.io/badge/10%20-%20Fim-212121)](#10-conclusão) |
+| [![4. Regras](https://img.shields.io/badge/4%20-%20Regras-9C27B0)](#4-regras-do-jogo) | | |
 
 ---
 
