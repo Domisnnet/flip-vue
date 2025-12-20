@@ -67,6 +67,7 @@ npm run dev
 
 O jogo ficará disponível em [http://localhost:5173](http://localhost:5173)  
 > ⚠️ Observação: a porta pode variar dependendo do ambiente.
+```
 
 ---
 
