@@ -154,6 +154,7 @@ Gostou do jogo? Explore o código ou faça sugestões:
 
 Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://img.shields.io/github/license/Domisnnet/GitHub-Stats)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/edit/main/LICENSE)
 
+
 ---
 
 <h2 id="conclusao"12. 📝 Conclusão e Perfil
