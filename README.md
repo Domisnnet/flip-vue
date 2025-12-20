@@ -12,8 +12,6 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 
 ---
 
----
-
 ## 📚 Tabela de Conteúdo
 
 | 🎮 O Jogo | 🛠️ Técnico | 🤝 Comunidade |
