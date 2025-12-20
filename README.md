@@ -150,7 +150,7 @@ Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://
 
 ---
 
-<h2 id="conclusao"12. 📝 Conclusão e Perfil
+<h2 id="conclusao">12. 📝 Conclusão e Perfil
 
 O **Shadow-Flip-Oh-Vue** combina nostalgia, interatividade e aprendizado.  
 Explore, contribua e divirta-se criando sua própria versão do duelo de memória digital!
