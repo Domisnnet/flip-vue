@@ -8,7 +8,7 @@
 
 Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido com Vue.js e Vite. Pode ser usado para criar interfaces dinâmicas e envolventes.
 
- 💡 Uma combinação entre **frontend moderno** e **nostalgia dos duelos de cartas**.
+> 💡 Uma combinação entre **frontend moderno** e **nostalgia dos duelos de cartas**.
 
 ---
 
@@ -20,6 +20,30 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 | [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#2-tecnologias-utilizadas) | [![6. Deploy](https://img.shields.io/badge/6%20-%20Deploy-009688)](#6-implantação) | [![9. Licença](https://img.shields.io/badge/9%20-%20Licença-E91E63)](#9-licença) |
 | [![3. Jogar](https://img.shields.io/badge/3%20-%20Jogar-FF9800)](#3-como-jogar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#7-contribuindo-para-o-projeto) | [![10. Conclusão](https://img.shields.io/badge/10%20-%20Fim-212121)](#10-conclusão) |
 | [![4. Regras](https://img.shields.io/badge/4%20-%20Regras-9C27B0)](#4-regras-do-jogo) | | |
+
+---
+
+## 📚 **Tabela de Conteúdo**
+- [1. 🎮 Sobre o Projeto](#1--sobre-o-projeto)
+- [2. ⚙️ Tecnologias Utilizadas](#2-️-tecnologias-utilizadas)
+- [3. 🚀 Como Jogar](#3--como-jogar)
+- [4. 🧩 Regras do Jogo](#4--regras-do-jogo)
+- [5. 🛠️ Instalação e Execução Local ](#5-️-instalação-e-execução-local)
+- [6. 🌐 Implantação](#6--implantação)
+- [7. 🤝 Contribuindo para o Projeto](#7--contribuindo-para-o-projeto)
+- [8. 🧠 Perguntas Frequentes](#8--perguntas-frequentes)
+- [9. 📜 Licença](#9-licença)
+- [10. 📝 Conclusão](#10-conclusão)
+
+---
+
+## 1. 🎮 **Sobre o Projeto**
+
+**Shadow-Flip-Oh-Vue** é um jogo da memória com temática inspirada no universo de Yu-Gi-Oh!  
+O objetivo é simples: encontrar todos os pares de cartas no menor tempo possível.  
+Além de entreter, este projeto demonstra como **Vue.js** pode ser usado para criar interfaces dinâmicas e envolventes.
+
+> 💡 Uma combinação entre **frontend moderno** e **nostalgia dos duelos de cartas**.
 
 ---
 
@@ -62,7 +86,7 @@ Shadow-Flip-Oh-Vue é um jogo da memória inspirado em Yu-Gi-Oh!, desenvolvido c
 
 ## 5. 🛠️ **Instalação e Execução Local**
 
-```bash
+\`\`\`bash
 # Clone o repositório
 git clone https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.git
 
@@ -74,7 +98,7 @@ npm install
 
 # Execute o servidor local
 npm run dev
-```
+\`\`\`
 
 ## 💻 Execução Local
 
@@ -98,9 +122,9 @@ O projeto está disponível para jogar online nos seguintes links:
 ### 🍴 Faça um Fork
 
 ### 🌱 Crie uma nova branch:
-```bash
+\`\`\`bash
 git checkout -b minha-feature
-```
+\`\`\`
 ---
 
 ## 8. 🧠 Perguntas Frequentes
@@ -122,9 +146,9 @@ git checkout -b minha-feature
 <details>
 <summary>Como atualizar as versões publicadas (deploy) ❓</summary>
 
-- O projeto está configurado para dois ambientes: **Firebase Hosting** e **GitHub Pages**. Antes de fazer o deploy, é crucial configurar o arquivo `vite.config.ts` corretamente:
-  - **Para o Firebase Hosting**: **Comente** a linha `base: '/Shadow-Flip-Oh-Vue/'`. Em seguida, rode `npm run build` e faça o deploy da pasta `dist`.
-  - **Para o GitHub Pages**: **Descomente** a linha `base: '/Shadow-Flip-Oh-Vue/'`. Em seguida, rode o script `./deploy.sh`.
+- O projeto está configurado para dois ambientes: **Firebase Hosting** e **GitHub Pages**. Antes de fazer o deploy, é crucial configurar o arquivo \`vite.config.ts\` corretamente:
+  - **Para o Firebase Hosting**: **Comente** a linha \`base: '/Shadow-Flip-Oh-Vue/'\`. Em seguida, rode \`npm run build\` e faça o deploy da pasta \`dist\`.
+  - **Para o GitHub Pages**: **Descomente** a linha \`base: '/Shadow-Flip-Oh-Vue/'\`. Em seguida, rode o script \`./deploy.sh\`.
 
 </details>
 
@@ -139,7 +163,7 @@ git checkout -b minha-feature
 
 ## 9. 📜 Licença
 
-Este projeto está licenciado sob a **MIT License** — consulte o arquivo `MIT license` para mais detalhes.
+Este projeto está licenciado sob a **MIT License** — consulte o arquivo \`MIT license\` para mais detalhes.
 
 ---
 
