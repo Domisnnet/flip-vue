@@ -63,31 +63,44 @@ cd Shadow-Flip-Oh-Vue.Js
 npm install
 npm run dev
 
-## 💻 Execução Local
+# 💻 Execução Local
 
 O jogo ficará disponível em [http://localhost:5173](http://localhost:5173)  
 > ⚠️ Observação: a porta pode variar dependendo do ambiente.
 
 ---
 
-## 6. 🌐 Implantação
+<h2 id="implantacao">6. 🌐 Implantação</h2>
 
 O projeto está disponível para jogar online nos seguintes links:
 
-<p align="left"><a href="https://shadow-flip-oh-86570817-f8cc4.web.app/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/main/public/images/firebase_badge.svg" alt="Deploy to Firebase Hosting" width="100" style="border: none; vertical-align: top;"></a>&nbsp;&nbsp;<a href="https://domisnnet.github.io/Shadow-Flip-Oh-Vue.Js/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; vertical-align: top;"><img src="https://raw.githubusercontent.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/main/public/images/github_badge.svg" alt="Deploy to GitHub Pages" width="125" style="border: none; vertical-align: top;"></a></p>
+| Plataforma | Status | Link de Acesso direto para o Jogo: |
+| :--- | :---: | :--- |
+| **GitHub Pages** | ![Status](https://img.shields.io/badge/Online-brightgreen?style=flat-square) | [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)](https://domisnnet.github.io/Shadow-Flip-Oh-Vue.Js/) |
+| **Firebase Hosting** | ![Status](https://img.shields.io/badge/Online-brightgreen?style=flat-square) | [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://shadow-flip-oh-86570817-f8cc4.web.app) |
 
 ---
 
-## 7. 🤝 Contribuindo para o Projeto
+<h2 id="como-contribuir">7. 🤝 Contribuindo para o Projeto</h2>
 
-> “O coração das cartas também guia os contribuidores!” 🃏
+Adicione este projeto ao seu "deck" de desenvolvedor! Siga a jornada abaixo para fortalecer este projeto:
+“O coração das cartas também guia os contribuidores!” 🃏
 
-### 🍴 Faça um Fork
+| Fase | Ação | Link / Comando |
+| :---: | :--- | :--- |
+| **01** | **Prepare o Terreno** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/fork) |
+| **02** | **Crie uma Branch** | `git checkout -b feature/NovaMelhoria` |
+| **03** | **Guarde as Mudanças** | `git commit -m 'feat: Adiciona nova funcionalidade'` |
+| **04** | **Envie o Código** | `git push origin feature/NovaMelhoria` |
+| **05** | **Desafio Final** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/compare) |
 
-### 🌱 Crie uma nova branch:
-\`\`\`bash
-git checkout -b minha-feature
-\`\`\`
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/GitHub-Stats?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/issues/new)
+
 ---
 
 ## 8. 🧠 Perguntas Frequentes
