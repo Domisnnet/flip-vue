@@ -113,7 +113,8 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 <details>
 <summary><strong>É possível jogar online ❓</strong></summary>
-<p>✅ <strong>Sim!</strong> O duelo já está disponível. Você pode acessar os links de hospedagem diretamente na seção de <strong><a href="#6-implantação">Implantação</a></strong>.</p>
+<p>✅ <strong>Sim!</strong> O duelo já está disponível. Você pode acessar os links de hospedagem diretamente na seção de <p>🌐 <strong>Implantação.
+</strong></p>
 </details>
 
 <details>
