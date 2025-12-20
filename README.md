@@ -157,6 +157,8 @@ Explore, contribua e divirta-se criando sua própria versão do duelo de memóri
 
 ✨ *“Cada carta virada é uma jogada do destino.”* — Shadow-Flip-Oh!
 
+---
+
 Para conhecer meu Repositório:
 
 <a href="https://github.com/Domisnnet"> <img src="public/images/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
