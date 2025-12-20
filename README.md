@@ -103,36 +103,33 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 ---
 
-## 8. 🧠 Perguntas Frequentes
+<h2 id="8-perguntas-frequentes">8. 🧠 Perguntas Frequentes</h2>
 
 <details>
-<summary>O que é o Shadow-Flip-Oh-Vue ❓</summary>
-
-- Um jogo de cartas da memória com estética inspirada em Yu-Gi-Oh!, feito com Vue.js e Vite.
-
+<summary><strong>O que é o Shadow-Flip-Oh-Vue ❓</strong></summary>
+<p>🃏 <strong>Resposta:</strong> É um jogo de cartas da memória com estética inspirada no universo de Yu-Gi-Oh!, desenvolvido com <strong>Vue.js</strong> e <strong>Vite</strong> para demonstrar interfaces reativas e performáticas.</p>
 </details>
 
 <details>
-<summary>É possível jogar online ❓</summary>
-
-- Sim! Os links de implantação estão disponíveis na seção [Implantação](#6--implantação).
-
+<summary><strong>É possível jogar online ❓</strong></summary>
+<p>✅ <strong>Sim!</strong> O duelo já está disponível. Você pode acessar os links de hospedagem diretamente na seção de <strong><a href="#6-implantação">Implantação</a></strong>.</p>
 </details>
 
 <details>
-<summary>Como atualizar as versões publicadas (deploy) ❓</summary>
-
-- O projeto está configurado para dois ambientes: **Firebase Hosting** e **GitHub Pages**. Antes de fazer o deploy, é crucial configurar o arquivo \`vite.config.ts\` corretamente:
-  - **Para o Firebase Hosting**: **Comente** a linha \`base: '/Shadow-Flip-Oh-Vue/'\`. Em seguida, rode \`npm run build\` e faça o deploy da pasta \`dist\`.
-  - **Para o GitHub Pages**: **Descomente** a linha \`base: '/Shadow-Flip-Oh-Vue/'\`. Em seguida, rode o script \`./deploy.sh\`.
-
+<summary><strong>Como atualizar as versões publicadas (deploy) ❓</strong></summary>
+<p>O projeto suporta dois ambientes. Para o deploy correto, ajuste o arquivo <code>vite.config.ts</code>:</p>
+<ul>
+  <li>🔥 <strong>Firebase Hosting:</strong> <strong>Comente</strong> a linha <code>base: '/Shadow-Flip-Oh-Vue/'</code>, rode <code>npm run build</code> e faça o deploy da pasta <code>dist</code>.</li>
+  <li>🐙 <strong>GitHub Pages:</strong> <strong>Descomente</strong> a linha <code>base</code> e execute o script <code>./deploy.sh</code>.</li>
+</ul>
 </details>
 
 <details>
-<summary>Posso contribuir ❓</summary>
-
-- Claro! Basta seguir o guia de contribuição e abrir um Pull Request.
-
+<summary><strong>Posso contribuir com o projeto ❓</strong></summary>
+<p>Claro! O "coração das cartas" guia os contribuidores. Basta seguir nosso guia e abrir um <strong>Pull Request</strong> para fortalecer este deck:</p>
+<a href="https://github.com/Domisnnet/Shadow-Flip-Oh-Vue.Js/compare">
+  <img src="https://img.shields.io/badge/Contribuir-Abrir%20PR-green?style=for-the-badge&logo=github" alt="Abrir PR">
+</a>
 </details>
 
 ---
