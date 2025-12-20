@@ -155,7 +155,7 @@ Este projeto é *open source* e está licenciado sob a [![Licença MIT](https://
 O **Shadow-Flip-Oh-Vue** combina nostalgia, interatividade e aprendizado.  
 Explore, contribua e divirta-se criando sua própria versão do duelo de memória digital!
 
-> ✨ *“Cada carta virada é uma jogada do destino.”* — Shadow-Flip-Oh!
+✨ *“Cada carta virada é uma jogada do destino.”* — Shadow-Flip-Oh!
 
 Para conhecer meu Repositório:
 
